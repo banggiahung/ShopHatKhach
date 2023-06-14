@@ -1,0 +1,5 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Unnamed" type="PhpBuiltInWebServerConfigurationType" factoryName="PHP Built-in Web Server" editBeforeRun="true" nameIsGenerated="true" document_root="$PROJECT_DIR$/khach1655" host="192.168.1.25" port="8000" router_script="$PROJECT_DIR$/khach1655/package.json" use_router_script="true">
+    <method v="2" />
+  </configuration>
+</component>

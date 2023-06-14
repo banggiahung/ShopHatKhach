@@ -1,0 +1,35 @@
+{
+  "name": "shop-hat",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@ckeditor/ckeditor5-build-classic": "^37.1.0",
+    "@ckeditor/ckeditor5-vue": "^5.1.0",
+    "bootstrap": "^4.3.1",
+    "chart.js": "^4.3.0",
+    "chartjs-plugin-datalabels": "^2.2.0",
+    "datatables.net-vue3": "^2.1.0",
+    "html-to-image": "^1.11.11",
+    "html2pdf.js": "^0.10.1",
+    "jquery": "^3.6.4",
+    "nodemailer": "^6.9.2",
+    "popper.js": "^1.16.1",
+    "sweetalert2": "^11.7.5",
+    "v-pagination-3": "^0.1.7",
+    "vue-axios": "^3.5.2",
+    "vue-chartjs": "^5.2.0",
+    "vue-marquee-text-component": "^2.0.1",
+    "vue-router": "^4.1.6",
+    "vue3-carousel": "^0.3.1",
+    "vuex": "^4.1.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^4.2.1",
+    "vite": "^4.3.4"
+  }
+}
